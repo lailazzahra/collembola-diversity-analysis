@@ -1,2 +1,16 @@
 # collembola-diversity-analysis
-Analysis of Collembola biodiversity and soil health indicators in Indonesian agricultural systems, specifically between no-tillage and minimum tillage agricultural lands
+Analysis of Collembola biodiversity and soil health indicators in Indonesian agricultural systems, specifically between no-tillage and minimum tillage agricultural lands in Semarang, Central Java
+
+## Objectives
+- Assess biodiversity
+- Compare agricultural systems
+- Explore soil health indicators
+
+## Tools used
+- QGIS
+- MVSP
+- SPSS
+- QBS Index
+  
+## Status
+Undergraduate thesis project
