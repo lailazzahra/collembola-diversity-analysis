@@ -14,3 +14,8 @@ Analysis of Collembola biodiversity and soil health indicators in Indonesian agr
   
 ## Status
 Undergraduate thesis project
+
+## Repository Contents
+- Final draft (unpublished, PDF)
+- Data analysis (MVSP, SPSS) including environmental attributes and morphotypes identified
+- Specimen documentations
