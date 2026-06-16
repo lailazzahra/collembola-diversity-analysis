@@ -18,4 +18,5 @@ Undergraduate thesis project
 ## Repository Contents
 - Final draft (unpublished, PDF)
 - Data analysis (MVSP, SPSS) including environmental attributes and morphotypes identified
-- Specimen documentations
+- Specimen documentations in all 3 stations (primary forest, no-tillage, minimum tillage LUS) including length (body, antennae, head), pigmentation, chetae, furca, ocelli, and their identified order
+- Specimen photographs
